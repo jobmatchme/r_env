@@ -1,0 +1,3 @@
+# A docker image ...
+
+... that is based on r-base and provides some basic packages useful for data analysis.
